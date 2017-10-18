@@ -1,4 +1,4 @@
-#Wed Oct 18 15:23:19 CDT 2017
+#Wed Oct 18 16:24:56 CDT 2017
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
@@ -7,14 +7,22 @@
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
 /configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=false
 /configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
-/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.ant.launching/timeout=20000
+/instance/org.eclipse.ant.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.ant.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.buildship.core/gradle.build.scans=false
+/instance/org.eclipse.buildship.core/gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+/instance/org.eclipse.buildship.core/gradle.offline.mode=false
 /instance/org.eclipse.core.resources/description.autobuilding=false
 /instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684"/>
 /instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
+/instance/org.eclipse.debug.ui/preferredTargets=default\:default|
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=C\:\\Users\\185710\\Rohit\\Devel\\rogger\\eclipse-settings\\.git;
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=C\:\\Users\\185710\\Rohit\\Devel\\rogger\\eclipse-settings\\.git;
 /instance/org.eclipse.egit.core/core_defaultRepositoryDir=C\:\\Users\\185710\\Rohit\\Devel\\rogger
+/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>latest commit</message>\r\n</messages>
 /instance/org.eclipse.epp.logging.aeri.ide/resetSendMode=KEEP
 /instance/org.eclipse.epp.logging.aeri.ide/resetSendModeOn=0
 /instance/org.eclipse.epp.logging.aeri.ide/sendMode=NOTIFY
@@ -189,20 +197,30 @@
 /instance/org.eclipse.m2e.discovery/org.eclipse.m2e.discovery.pref.projects=
 /instance/org.eclipse.mylyn.context.core/mylyn.attention.migrated=true
 /instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
+/instance/org.eclipse.mylyn.tasks.ui/migrated.task.repositories.secure.store=true
 /instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
 /instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
 /instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.welcome.message=true
 /instance/org.eclipse.oomph.workingsets/working.set.group=<?xml version\="1.0" encoding\="UTF-8"?>\n<workingsets\:WorkingSetGroup xmi\:version\="2.0" xmlns\:xmi\="http\://www.omg.org/XMI" xmlns\:workingsets\="http\://www.eclipse.org/oomph/workingsets/1.0"/>\n
 /instance/org.eclipse.rse.core/activeuserprofiles=02HW029529;Team
 /instance/org.eclipse.rse.core/org.eclipse.rse.systemtype.local.systemType.defaultUserId=185710
+/instance/org.eclipse.rse.core/useridperkey=02HW029529.Local\=185710;
 /instance/org.eclipse.rse.ui/org.eclipse.rse.preferences.order.connections=02HW029529.Local
 /instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.sychronizing_default_participant=org.eclipse.egit.ui.modelCompareParticipant
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.sychronizing_default_participant_sec_id=1508358986460
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.sychronizing_default_perspective_to_show=never
 /instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
 /instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/org.eclipse.ui.internal.views.markers.CachedMarkerBuilderorg.eclipse.ui.views.AllMarkersView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<filterGroups andFilters\="false" markerLimit\="100" markerLimitEnabled\="true">\r\n<filterGroup IMemento.internal.id\="USER1508359327368" enabled\="true" filterLimit\="0" name\="default" scope\="2" workingSet\="Aggregate for window 1508356446097">\r\n<fieldFilter FILTER_ON_SEVERITY\="false" IMemento.internal.id\="org.eclipse.ui.ide.allSeverityField" containsModifier\="CONTAINS" containsText\="" selectedSeverities\="7"/>\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType"/>\r\n</filterGroup>\r\n</filterGroups>
 /instance/org.eclipse.ui.ide/platformState=1508345416437
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
-/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+/instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.rse.project.filters.RemoteSystemsProjects\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.buildship.ui.navigator.filter.gradle.subProject\:org.eclipse.buildship.ui.navigator.filter.gradle.buildfolder\:org.eclipse.wst.jsdt.chromium.hideVirtualFileSystem\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.jst.j2ee.navigator.ui.filters.jetemitters\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.mylyn.tasks.ui.navigator.filters.tasks\:
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.buildship.stsmigration;org.eclipse.cft.server.verify.ui;org.eclipse.egit.ui;org.eclipse.epp.logging.aeri.ide;org.eclipse.epp.mpc.ui;org.eclipse.equinox.p2.ui.sdk.scheduler;org.eclipse.jst.j2ee.webservice.ui;org.eclipse.m2e.discovery;org.eclipse.mylyn.tasks.ui;org.eclipse.mylyn.team.ui;org.eclipse.oomph.setup.ui;org.eclipse.oomph.workingsets.editor;org.eclipse.rse.ui;org.eclipse.ui.monitoring;
+/instance/org.eclipse.ui/showIntro=false
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.codeComplete.argumentPrefixes=a
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.codeComplete.argumentSuffixes=
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.codeComplete.localPrefixes=
@@ -272,6 +290,9 @@
 /instance/org.eclipse.wst.jsdt.ui/useAnnotationsPrefPage=true
 /instance/org.eclipse.wst.jsdt.ui/useQuickDiffPrefPage=true
 /instance/org.eclipse.wst.server.core/module-start-timeout=300000
+/instance/org.eclipse.wst.sse.ui/content_assist_number_of_computers=22
+/instance/org.eclipse.wst.sse.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
 /instance/org.eclipse.wst.validation/DELEGATES_PREFERENCE=delegateValidatorList
 /instance/org.eclipse.wst.validation/USER_BUILD_PREFERENCE=enabledBuildValidatorList
 /instance/org.eclipse.wst.validation/USER_MANUAL_PREFERENCE=enabledManualValidatorListorg.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;org.eclipse.jst.j2ee.internal.jca.validation.UIConnectorValidator;org.eclipse.jst.j2ee.internal.validation.UIApplicationClientValidator;org.eclipse.jst.j2ee.internal.validation.UIEarValidator;org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator;org.eclipse.jst.j2ee.internal.ejb.workbench.validation.UIEjbValidator;
@@ -300,10 +321,16 @@
 /instance/org.eclipse.wst.validation/vals/org.eclipse.wst.xsd.core.xsd/global=TF02162org.eclipse.wst.xsd.core.internal.validation.eclipse.Validator
 /instance/org.eclipse.wst.validation/vals/org.eclipse.wst.xsl.core.xsl/global=TF02
 /instance/org.eclipse.wst.validation/vf.version=3
-@org.eclipse.core.net=1.3.100.v20170516-0820
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.wst.xml.ui/org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart.lastActivePage=1
+@org.eclipse.ant.launching=1.2.0.v20170509-2157
+@org.eclipse.ant.ui=3.7.0.v20170412-1054
+@org.eclipse.buildship.core=2.1.2.v20170807-1324
 @org.eclipse.core.resources=3.12.0.v20170417-1558
 @org.eclipse.debug.ui=3.12.50.v20170920-1329
 @org.eclipse.egit.core=4.8.0.201706111038-r
+@org.eclipse.egit.ui=4.8.0.201706111038-r
 @org.eclipse.epp.logging.aeri.ide=2.0.6.v20170906-1226
 @org.eclipse.epp.mpc.ui=1.6.2.v20171004-2006
 @org.eclipse.jdt.core=3.13.50.v20171007-0855
@@ -318,11 +345,16 @@
 @org.eclipse.rse.core=3.3.100.201603151753
 @org.eclipse.rse.ui=3.3.400.201704241037
 @org.eclipse.team.ui=3.8.1.v20170515-1133
+@org.eclipse.ui=3.109.0.v20170411-1742
 @org.eclipse.ui.editors=3.11.0.v20170202-1823
 @org.eclipse.ui.ide=3.13.1.v20170822-1526
+@org.eclipse.ui.navigator=3.7.0.v20170418-1342
 @org.eclipse.ui.workbench=3.110.1.v20170704-1208
 @org.eclipse.wst.jsdt.core=2.0.300.v201703171536
 @org.eclipse.wst.jsdt.ui=2.0.300.v201704191905
 @org.eclipse.wst.server.core=1.10.0.v201705172051
+@org.eclipse.wst.sse.ui=1.3.600.v201707042340
 @org.eclipse.wst.validation=1.2.701.v201707142105
+@org.eclipse.wst.ws.service.policy=1.0.450.v201505131719
+@org.eclipse.wst.xml.ui=1.1.800.v201704102213
 file_export_version=3.0
