@@ -5,5 +5,6 @@ gradle
 classpath
 prod
 config
-walgreens
 servlet
+endpoints
+pointcut

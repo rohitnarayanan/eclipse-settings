@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='1'>
+    <iu id='org.eclipse.buildship.feature.group' name='Buildship: Eclipse Plug-ins for Gradle' version='2.2.1.v20180125-1441'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/buildship/updates/e47/releases/2.x'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
